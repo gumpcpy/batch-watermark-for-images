@@ -2,6 +2,12 @@
 
 一個視窗介面的圖片水印添加工具，支持批量處理 JPG、TIFF、PNG 格式的圖片。
 
+## Screenshots
+<img width="703" height="632" alt="CN" src="https://github.com/user-attachments/assets/d97d06d6-eaa1-41aa-9a84-2634932e9aa5" />
+<img width="701" height="631" alt="En" src="https://github.com/user-attachments/assets/69b58774-1fdb-4f6c-a3f1-9639d895e6f9" />
+<img width="702" height="633" alt="TW" src="https://github.com/user-attachments/assets/32016c32-ec0e-4f84-a29e-4950760e3108" />
+
+
 ## 功能特點
 
 - 🖼️ 支持多種圖片格式：JPG、TIFF、PNG
